@@ -419,10 +419,7 @@ body {
     }
 
     .accommadation-container-rooms-room-text {
-        display: flex;
-        justify-content: space-between;
         height: 100%;
-        align-items: center;
         font-size: 1.5rem;
         padding-bottom: 10px;
     }
@@ -550,10 +547,7 @@ body {
     }
 
     .accommadation-container-rooms-room-text {
-        display: flex;
-        justify-content: space-between;
         height: 100%;
-        align-items: center;
         font-size: 1.5rem;
         padding-bottom: 10px;
     }
